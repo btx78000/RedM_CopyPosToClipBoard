@@ -5,8 +5,8 @@ Nothing.
 # Installation 
 
 - Download files
-- Copy and paste RedM_CopyPosToClipBoard folder to resources/
-- Add ensure RedM_CopyPosToClipBoard to your server.cfg file
+- Copy and paste RedM_CopyPosToClipBoard-master folder to resources/
+- Add ensure RedM_CopyPosToClipBoard-master to your server.cfg file
 
 # Configuration
 
