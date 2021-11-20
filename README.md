@@ -10,7 +10,7 @@ Nothing.
 
 # Configuration
 
-You can configure 3 type of output format 
+You can configure 3 type of output format in config.js at the root directory of the resource ( resources/RedM_CopyPosToClipBoard/config.js )
 
 
 LUA  ( {x = -322.22833251953125, y = 784.619140625, z = 116.99717712402344} )
