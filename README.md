@@ -13,7 +13,7 @@ Nothing.
 You can configure 3 type of output format in config.js at the root directory of the resource ( resources/RedM_CopyPosToClipBoard/config.js )
 
 
-LUA  ( {x = -322.22833251953125, y = 784.619140625, z = 116.99717712402344} )
+lua  ( {x = -322.22833251953125, y = 784.619140625, z = 116.99717712402344} )
 
 JSON ( {'x': -262.8489074707031, 'y': 793.4041137695312, 'z': 118.7240753173828} )
 
