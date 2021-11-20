@@ -3,7 +3,7 @@
 
 version '1.0.0'
 author 'Btx@ControlRP'
-description 'Provide simple way to get position in formatted string JSON/Lua/vector3 ( you can edit the format in client.js)'
+description 'Provide simple way to get position in formatted string JSON/Lua/vector3 ( you can edit the format in config.js)'
 repository ''
 
 ui_page 'src/client/html/index.html'
